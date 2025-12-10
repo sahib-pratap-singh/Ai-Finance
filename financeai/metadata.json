@@ -1,0 +1,7 @@
+{
+  "name": "FinanceAI",
+  "description": "A comprehensive personal finance manager featuring account aggregation, AI-powered transaction categorization, budgeting, and financial goal tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
